@@ -70,7 +70,7 @@ class Ui_Dialog(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "Dialog"))
+        Dialog.setWindowTitle(_translate("Dialog", "ChatClient"))
         self.pushButton.setText(_translate("Dialog", "SEND"))
         self.label.setText(_translate("Dialog", "SERVER"))
         self.label_2.setText(_translate("Dialog", "PORT"))
