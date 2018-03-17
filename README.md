@@ -1,2 +1,6 @@
 # GUI Client for chat made in PyQT5
-![ScreenShot](/QtChatServer-Client/screenshots/connected.png?raw=true "Connected")
+
+![Exhibit A](/screenshots/disconnected.png?raw=true "Disconnected")
+
+![Exhibit B](/screenshots/connected.png?raw=true "Connected")
+
